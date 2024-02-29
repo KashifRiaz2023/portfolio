@@ -1,0 +1,115 @@
+#skills {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 90rem;
+    margin: 0 auto;
+  }
+  
+  .skillBar {
+    margin-left: 1rem;
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 2rem;
+    height: 18rem;
+    padding-top: 3rem;
+  }
+  .skillBar:hover {
+    opacity: 0.9;
+    box-shadow: #64f4ab;
+    background-color: #64f4ab;
+    color: rgb(255, 255, 255);
+  }
+  .happyBar {
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 2rem;
+    height: 18rem;
+    margin-top: -16rem;
+    margin-left: 23rem;
+    padding-top: 3rem;
+  }
+  
+  .happyBar:hover {
+    opacity: 0.9;
+    box-shadow: #64f4ab;
+    background-color: #64f4ab;
+    color: rgb(255, 255, 255);
+  }
+  .bg1 {
+    position: relative;
+    left: 0;
+    right: 75rem;
+    height: 4rem;
+  }
+  .SadBar {
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 2rem;
+    height: 18rem;
+    margin-top: 0rem;
+    margin-left: 1rem;
+    padding-top: 3rem;
+  }
+  .SadBar:hover {
+    opacity: 0.9;
+    box-shadow: #64f4ab;
+    background-color: #64f4ab;
+    color: rgb(255, 255, 255);
+  }
+  .MidBar {
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 2rem;
+    height: 18rem;
+    margin-top: -16rem;
+    margin-left: 23rem;
+    padding-top: 3rem;
+  }
+  .Mid:hover {
+    opacity: 0.9;
+    box-shadow: #64f4ab;
+    background-color: #64f4ab;
+    color: rgb(255, 255, 255);
+  }
+  .skillContent {
+    max-width: 10rem;
+    width: 10rem;
+    text-align: start;
+    margin-left: 40rem;
+    margin-top: -45rem;
+    writing-mode: vertical-rl;
+    transform: rotate(270deg);
+  }
+  
+  .skill {
+    color: #64f4ab;
+    font-size: 18px;
+    padding-bottom: 5rem;
+  }
+  .skillText {
+    font-weight: bolder;
+    font-size: 40px;
+  }
+  .skillPara {
+    font-size: 20px;
+  }
+  
+  .btn1 {
+    background: rgb(226, 167, 50);
+    margin: 1rem 1rem;
+    padding: 0.85rem 1rem;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
+  
+  btn1:hover {
+  }

@@ -1,0 +1,38 @@
+#project {
+    margin-top: 20rem;
+    overflow: hidden;
+    width: 100vw;
+    max-width: 90rem;
+    margin: 0 auto;
+  }
+  
+  .image {
+    margin-left: 50rem;
+    width: 40rem;
+    margin-top: 3rem;
+  }
+  
+  .projectContent {
+    margin-top: -30rem;
+    margin-bottom: 25rem;
+    padding-left: 2rem;
+  }
+  
+  .project {
+    color: #64f4ab;
+    font-size: 18px;
+    padding-bottom: 5rem;
+  }
+  .projectText {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .Readmore {
+    color: yellow;
+    cursor: pointer;
+  }
+  
+  .Readmore:hover {
+    opacity: 0.9;
+  }

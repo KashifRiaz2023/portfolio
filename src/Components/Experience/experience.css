@@ -1,0 +1,82 @@
+#experience {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 90rem;
+    margin-top: -20rem;
+    margin-left: 4rem;
+    padding-top: 3rem;
+  }
+  .experience1 {
+    margin-left: 1rem;
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 2rem 0rem 0rem 2rem;
+    height: 18rem;
+    padding-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  .experience2 {
+    font-size: 40px;
+    color: rgb(37, 180, 94);
+  }
+  .p {
+    color: white;
+  }
+  .experience3 {
+    margin-left: 1rem;
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 0rem 0rem 0rem 0rem;
+    height: 20rem;
+    padding-top: 3rem;
+    margin-top: -20rem;
+    margin-left: 22rem;
+  }
+  .experience4 {
+    font-size: 40px;
+    color: rgb(37, 180, 94);
+  }
+  .p {
+    color: white;
+  }
+  .experience5 {
+    margin-left: 1rem;
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 0rem 0rem 0rem 0rem;
+    height: 20rem;
+    padding-top: 3rem;
+    margin-top: -20rem;
+    margin-left: 42.75rem;
+  }
+  .experience6 {
+    font-size: 40px;
+    color: rgb(37, 180, 94);
+  }
+  .p {
+    color: white;
+  }
+  .experience7 {
+    margin-left: 63.5rem;
+    width: 20rem;
+    max-width: 30%;
+    text-align: center;
+    background-color: rgb(26, 26, 29);
+    border-radius: 0rem 2rem 2rem 0rem;
+    height: 18rem;
+    padding-top: 3rem;
+    margin-top: -20rem;
+  }
+  .experience8 {
+    font-size: 40px;
+    color: rgb(37, 180, 94);
+  }
+  .p {
+    color: white;
+  }

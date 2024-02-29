@@ -1,0 +1,76 @@
+#intro {
+    height: calc(100vh-4rem);
+    width: 100vw;
+    max-width: 100rem;
+    top: -5rem;
+    margin: 4 auto;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .bg {
+    position: absolute;
+    top: -20rem;
+    margin-left: 48rem;
+    margin-right: 50rem;
+    z-index: -1;
+    height: 100rem;
+    width: 45rem;
+  }
+  
+  .introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .hello {
+    font-size: 1.2rem;
+    font-weight: 100;
+    color: #64f4ab;
+  }
+  .introText {
+    font-size: 78px;
+  }
+  
+  .introName {
+    color: rgb(255, 255, 255);
+    font-weight: 78px;
+  }
+  
+  .introPara {
+    font-size: medium;
+    font-weight: 100;
+    margin-right: 50rem;
+  }
+  
+  .btn {
+    background: rgb(226, 167, 50);
+    margin: 1rem 0;
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
+  @media screen and (max-width: 840px) {
+    .bg {
+      right: -10vw;
+    }
+    .introContent {
+      font-size: 10vw;
+    }
+    .hello {
+      font-size: 4.5vw;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .bg {
+      right: -20vw;
+    }
+  }

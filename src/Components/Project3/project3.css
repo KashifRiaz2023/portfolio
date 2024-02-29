@@ -1,0 +1,52 @@
+#project3 {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 90rem;
+    margin-top: -45rem;
+  }
+  
+  .image5 {
+    margin-left: 50rem;
+    width: 40rem;
+    margin-top: 3rem;
+  }
+  
+  .projectContent3 {
+    margin-top: -30rem;
+    margin-bottom: 25rem;
+    padding-left: 5rem;
+  }
+  
+  .project3 {
+    color: #64f4ab;
+    font-size: 18px;
+    padding-bottom: 5rem;
+  }
+  .projectText3 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .Readmore3 {
+    color: yellow;
+    cursor: pointer;
+  }
+  
+  .Readmore3:hover {
+    opacity: 0.9;
+  }
+  .btn3 {
+    margin-left: 40rem;
+    margin-top: 15rem;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 1rem;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .btn3:hover {
+    background-color: rgb(64, 69, 86);
+  }

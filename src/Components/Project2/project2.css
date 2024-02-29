@@ -1,0 +1,50 @@
+#project2 {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 90rem;
+    margin-top: -15rem;
+  }
+  
+  .image1 {
+    margin-left: 3rem;
+    width: 40rem;
+    margin-top: 3rem;
+  }
+  
+  .projectContent1 {
+    margin-top: -30rem;
+    margin-bottom: 25rem;
+    padding-left: 50rem;
+  }
+  
+  .project1 {
+    color: #64f4ab;
+    font-size: 18px;
+    padding-bottom: 5rem;
+  }
+  .projectText1 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .Readmore1 {
+    color: yellow;
+    cursor: pointer;
+  }
+  
+  .Readmore1:hover {
+    opacity: 0.9;
+  }
+  
+  .image3 {
+    opacity: 0.3;
+    margin-left: 25rem;
+    width: 20rem;
+    margin-top: -20rem;
+  }
+  .image4 {
+    opacity: 0.3;
+    margin-left: -55rem;
+    width: 20rem;
+    margin-top: 9rem;
+  }
